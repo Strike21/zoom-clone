@@ -15,6 +15,6 @@ app.get("/:room", (req,rsp)=>{
     rsp.render("room",{roomId: req.params.room})
 })
 
-server.listen(process.env.PORT || 3030)
+server.listen(process.env.PORT || 000)
 
-console.log('o server está ativo')
+console.log('o server está ativo✅')
