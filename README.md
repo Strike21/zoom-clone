@@ -22,18 +22,18 @@ só vc consegue ficar nele, mas de resto o mic e camêra estão funcionando.
 
 ##
 
-##### 🔓 Sobre o open-source:
-
-Isto é totalmente open-source, se você for usar este projeto de base não se esqueça de dar os créditos.
-
-##
-
 ### 📋 Anotação rápida
 
 Eu peguei essa ideia lá do TiaGoiNsaNy, se você não conheçe ele, aqui o github:
 
 | [<img src="https://avatars.githubusercontent.com/u/62999761?s=460&u=1a2c2557c68aeef26e6eb8fab98ff1ca32a7d259&v=4" width=115><br><sub>@TiaGoiNsaNy</sub>](https://github.com/TiaGoiNsaNy) |
 | :---: |  
+
+##
+
+### 🔓 Sobre o open-source:
+
+Isto é totalmente open-source, se você for usar este projeto de base não se esqueça de dar os créditos.
 
 ##
 
