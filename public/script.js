@@ -68,7 +68,7 @@ peer.on("call", function (call) {
       });
     },
     function (err) {
-      console.log("Failed to get local stream", err);
+      console.log("Falha ao obter stream local", err);
     }
   );
 });
