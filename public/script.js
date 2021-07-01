@@ -77,7 +77,7 @@ peer.on("open", (id) => {
   socket.emit("join-room", ROOM_ID, id);
 });
 
-// CHAT
+
 
 const connectToNewUser = (userId, streams) => {
   var call = peer.call(userId, streams);
